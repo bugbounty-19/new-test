@@ -1,0 +1,12 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  termsOfService: "javascript:alert(document.cookie)"
+  title: Test
+  description: 'Test'
+paths:
+  /:
+    get:
+      responses:
+        '200':
+          description: Test
