@@ -3,7 +3,7 @@ info:
   version: 1.0.0
   termsOfService: "javascript:alert(document.cookie)"
   title: Test
-  description: 'Test <svg/onload=alert(1)>'
+  description: 'Test <h1 onload="alert(1)">xx'
 paths:
   /:
     get:
